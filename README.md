@@ -1,0 +1,1 @@
+# latest-blum-points-bot
